@@ -17,4 +17,4 @@ The Train, Test and Prediction data is separated in each zip files. There are ar
 This data was initially published on https://datahack.analyticsvidhya.com by Intel to host a Image classification Challenge.
 
 ## Inspiration
-Want to build powerful Neural network that can classify these images with more accuracy.
+Want to build Neural network that can classify these images with more accuracy.
